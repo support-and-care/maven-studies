@@ -48,6 +48,9 @@ under the License.
   </distributionManagement>
 
   <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+
     <checkstyle.violation.ignore>FileLength</checkstyle.violation.ignore>
     <maven.site.path>studies/consumer-pom</maven.site.path>
   </properties>
